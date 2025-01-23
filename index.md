@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-<<content goes here>>
+my content goes here
